@@ -20,6 +20,7 @@
   - 浏览器访问监听端口，输入请求数据尝试解密
 <img src="https://github.com/chuanjiesun/shiro_rememberMe_decrypt/blob/master/shiro_input.png" width="800" alt="">
 <img src="https://github.com/chuanjiesun/shiro_rememberMe_decrypt/blob/master/shiro_output.png" width="800" alt="">
+<img src="https://github.com/chuanjiesun/shiro_rememberMe_decrypt/blob/master/shiro_output2.png" width="800" alt="">
 
 也可以通过接口直接发送数据：
 - 解密接口：`POST /shiro_decrypt`

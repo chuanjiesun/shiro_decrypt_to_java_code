@@ -63,4 +63,4 @@ curl localhost:8080/shiro_decrypt --data "{\"key\":\"\", \"encrypt_data\":\"j89Q
 ```
 
 ## 在线站点
-搭建一个简易在线站点：[https://shiro.tools-trunk.top/](https://shiro.tools-trunk.top/)
+搭建一个简易在线站点（closed）：~~[https://shiro.tools-trunk.top/](https://shiro.tools-trunk.top/)~~
